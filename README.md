@@ -1,1 +1,0 @@
-# hairobo_auto
